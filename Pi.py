@@ -1,3 +1,4 @@
+# Nguyen Thanh Phat - 2000006273
 from mpi4py import MPI
 from mpi_master_slave import Master, Slave
 from mpi_master_slave import WorkQueue
